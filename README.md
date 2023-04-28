@@ -15,7 +15,7 @@ This repo provides a simple patch to the Anaconda installer to allow Fedora 34+ 
 3. Clone this git repository.
 
     ```bash
-    git clone https://github.com/chenxiaolong/fedora-encrypted-boot.git
+    git clone https://github.com/MiranDaniel/fedora-encrypted-boot.git
     cd fedora-encrypted-boot
     ```
 
